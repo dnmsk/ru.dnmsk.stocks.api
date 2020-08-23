@@ -1,0 +1,11 @@
+{
+  "name": "ru.dnmsk.stocks.api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dnmsk/ru.dnmsk.stocks.api",
+  "author": "Dmirty Klimanov",
+  "license": "MIT",
+  "dependencies": {
+    "pako": "^1.0.11"
+  }
+}
