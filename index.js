@@ -1,1 +1,3 @@
-export WebSocket from "./lib/web_socket";
+import WS from "./lib/web_socket";
+
+export default WS;
